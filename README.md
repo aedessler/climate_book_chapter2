@@ -18,3 +18,6 @@ These are in C and warming is relative to the 1850-1900 baseline.  Values calcul
 If you look at the 2014-2023 period, the planet is 1.29C warmer than the 1850-1900 period.
 
 If you want to know how extreme 2023 was compared to climate model predictions, [read this](https://www.theclimatebrink.com/p/how-extreme-was-the-earths-temperature).
+
+[my website for book](https://andrewdessler.com)
+[Cambridge's website for book](https://www.cambridge.org/us/universitypress/subjects/earth-and-environmental-science/climatology-and-climate-change/introduction-modern-climate-change-3rd-edition?format=PB&isbn=9781108793872)  
